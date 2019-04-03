@@ -2,7 +2,7 @@
     "name": "koa-server-test",
     "version": "1.0.0",
     "main": "index.js",
-    "repository": "https://github.com/scottdj92/koa-server-test.git",
+    "repository": "git@github.com:scottdj92/koa-server-test.git",
     "author": "<scottdj92@gmail.com>",
     "license": "MIT",
     "scripts": {
